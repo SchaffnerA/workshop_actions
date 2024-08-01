@@ -1,4 +1,6 @@
 """ this module aims to run some unit test"""
+
+import pandas
 def inx(x):
     """adds 1 to the inputs parameter"""
     return x+1
