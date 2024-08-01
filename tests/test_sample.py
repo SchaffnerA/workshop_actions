@@ -1,6 +1,6 @@
 """ this module aims to run some unit test"""
 
-import pandas
+#import pandas
 def inc(x):
     """adds 1 to the inputs parameter"""
     return x+1
